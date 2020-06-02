@@ -1,6 +1,8 @@
 RNCryptor PHP
 -------------
 
+This is an unofficial fork of the original [RNCryptor library](https://github.com/RNCryptor/RNCryptor-php) 
+
 [![Build Status](https://travis-ci.org/RNCryptor/RNCryptor-php.svg?branch=master)](https://travis-ci.org/RNCryptor/RNCryptor-php)
 
 This implementation strives to be fully compatible with Rob Napier's
