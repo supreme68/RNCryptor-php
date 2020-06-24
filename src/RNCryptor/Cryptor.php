@@ -9,7 +9,7 @@ class Cryptor
 
     protected $config;
 
-    protected $iterations = 2000;
+    protected $iterations = 10000;
 
     /**
      * Set the number of PBKDF2 iterations to use
